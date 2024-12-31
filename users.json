@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "firstname": "Adwita",
+    "lastname": "Jindal",
+    "password": "462100",
+    "mobile": "6280730822",
+    "gender": "Female",
+    "birthdate": "2024-12-31",
+    "address": "abc ",
+    "country": "India",
+    "pincode": "141001"
+  }
+]
